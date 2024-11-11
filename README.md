@@ -9,8 +9,6 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 import threading
 from time import sleep
-# apiby @dothanh1110 (tôn trọng tý thì đừng xoá)
-# web: ctdotech.tech
 
 # Danh sách các họ, tên đệm và tên phổ biến
 last_names = ['Nguyễn', 'Trần', 'Lê', 'Phạm', 'Vũ', 'Hoàng']
